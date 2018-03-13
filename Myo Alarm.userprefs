@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{6F6DE0F4-08EC-3D65-E6E3-1BAEDA4946C6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GUIController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AlarmClock.cs" Line="43" Column="22" />
+      <File FileName="Assets/Scripts/ApplicationManager.cs" Line="70" Column="15" />
+      <File FileName="Assets/Scripts/GUIController.cs" Line="66" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Myo_220Alarm PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
